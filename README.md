@@ -1,213 +1,66 @@
 <div align="center">
-  <h1>👋 Приветствую! Я — Валентин</h1>
-  <h3>Python Developer | Automation | Bots | Web</h3>
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:6e0000,100:ff3e3e&text=APEX4CODER&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Валентин%20·%20Python%20·%20AI-мосты%20·%20Автоматизация&descColor=c9d1d9&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=FF3E3E&center=true&vCenter=true&width=720&lines=Python+Developer+·+Bots+·+Automation;AI-мосты%3A+Zoo+Code+↔+Hyperagent;FastAPI+·+Django+·+Aiogram+·+Docker;Чистый+код.+Без+воды." alt="typing"/>
 
-<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
-<a href="https://djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-<a href="https://aiogram.dev"><img src="https://img.shields.io/badge/Aiogram-2F3134?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"></a>
-<a href="https://postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-<a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-<a href="https://linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Apex4Coder&style=for-the-badge&color=ff3e3e&label=ПРОСМОТРЫ"/>
+<a href="https://t.me/GPCProject"><img src="https://img.shields.io/badge/Telegram-@GPCProject-1a1a1a?style=for-the-badge&logo=telegram&logoColor=ff3e3e"/></a>
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-ff3e3e?style=for-the-badge&labelColor=1a1a1a"/>
 
 </div>
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Обо мне
+
+Проектирую **backend-логику**, строю **Telegram-ботов**, автоматизирую рутину и собираю **мосты между AI-агентами и инструментами разработчика** — свежий пример: прокси, который превращает облачного агента в модельный провайдер для VS Code с полным tool-calling циклом.
+
+- 🔴 **AI-интеграции** — OpenAI-совместимые прокси, MCP, протоколы агентных инструментов
+- ⚫ **Backend** — FastAPI / Django, PostgreSQL, SQLAlchemy, Docker, Nginx
+- ⚪ **Боты и автоматизация** — Aiogram 3.x, парсинг, Excel-пайплайны
+
+## ⚡ Стек
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,js,html,css,postgres,sqlite,docker,nginx,linux,git,vscode&perline=7&theme=dark"/>
+</div>
+
+## 🔴 Проекты
 
 <div align="center">
 
-🇷🇺 **Русская версия** | <a href="#english"><img src="https://img.shields.io/badge/🇬🇧_English_version-0366d6?style=flat-square" alt="English"></a>
+<a href="https://github.com/Apex4Coder/zoo-hyperagent-bridge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Apex4Coder&repo=zoo-hyperagent-bridge&bg_color=0d1117&title_color=ff3e3e&text_color=8b949e&icon_color=ff3e3e&border_color=30363d" alt="zoo-hyperagent-bridge"/>
+</a>
+<a href="https://github.com/Apex4Coder/switch9proxy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Apex4Coder&repo=switch9proxy&bg_color=0d1117&title_color=ff3e3e&text_color=8b949e&icon_color=ff3e3e&border_color=30363d" alt="switch9proxy"/>
+</a>
 
 </div>
 
-<!-- ======== RUSSIAN VERSION ======== -->
+| Проект | Что делает | Стек |
+|---|---|---|
+| **[zoo-hyperagent-bridge](https://github.com/Apex4Coder/zoo-hyperagent-bridge)** | Hyperagent-агент как модельный провайдер для Zoo Code (VS Code): native tool calls, MCP-транспорт, OAuth, живой SSE, логи в стиле 9router | Node.js, MCP, OpenAI API |
+| **[switch9proxy](https://github.com/Apex4Coder/switch9proxy)** | Переключатель профилей для 9router: изолированные workspace с разными провайдерами и OAuth | Node.js, SQLite, JS |
 
-## 🧠 Обо мне
-
-Разрабатываю **логику приложений**, **веб-страницы**, **серверные решения** и **Telegram-ботов**. Пишу чистый, модульный, поддерживаемый код. Автоматизирую рутину — от Excel до сложных бизнес-процессов.
-
-- 🔧 Проектирую **архитектуру** backend-решений
-- 🤖 Создаю **Telegram-ботов** любой сложности (Aiogram)
-- 🌐 Строю **веб-приложения** на FastAPI / Django
-- 🗄 Работаю с **базами данных** (PostgreSQL, SQLite)
-- 🐳 Контейнеризирую приложения (Docker)
-- 📊 Обрабатываю данные: **Python + openpyxl** для Excel
-
----
-
-## 🛠 Стек технологий
-
-### Языки
-| Язык | Уровень |
-|------|---------|
-| Python | ⭐⭐⭐⭐⭐ |
-| SQL | ⭐⭐⭐⭐ |
-| HTML / CSS | ⭐⭐⭐⭐ |
-| JavaScript (базовый) | ⭐⭐⭐ |
-
-### Backend
-| Технология | Назначение |
-|---|---|
-| **FastAPI** | Современные REST API (асинхронно, документация Swagger) |
-| **Django** | Полноценные веб-приложения с админ-панелью |
-| **Uvicorn / Gunicorn** | Запуск и прод-сервер |
-
-### Базы данных
-| Технология | Назначение |
-|---|---|
-| **PostgreSQL** | Основная БД для проектов |
-| **SQLite** | Лёгкая БД для прототипов |
-| **SQLAlchemy** | ORM — работа с БД через Python |
-| **Alembic** | Миграции схемы БД |
-
-### Боты
-| Технология | Назначение |
-|---|---|
-| **Aiogram 3.x** | Асинхронные Telegram-боты (клавиатуры, FSM, middleware) |
-
-### Инфраструктура
-| Технология | Назначение |
-|---|---|
-| **Docker** | Контейнеризация приложений |
-| **Git / GitHub** | Контроль версий, CI/CD |
-| **Linux (Ubuntu)** | Серверная среда |
-| **Nginx** | Прокси-сервер |
-
-### Парсинг и данные
-| Технология | Назначение |
-|---|---|
-| **openpyxl** | Чтение/запись Excel-файлов |
-| **BeautifulSoup / lxml** | Парсинг HTML |
-| **httpx / aiohttp** | Асинхронные HTTP-запросы |
-
----
-
-## 📂 Проекты
-
-| Проект | Описание | Стек |
-|--------|----------|------|
-| **[switch9proxy](https://github.com/GPCProject/switch9proxy)** | Переключатель профилей для 9router. Изолированные workspace с разными провайдерами и OAuth | Node.js, SQLite, vanilla JS |
-
----
-
-## 📊 GitHub Stats
+## 📊 Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GPCProject&show_icons=true&theme=dark" alt="GitHub Stats">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apex4Coder&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff3e3e&text_color=c9d1d9&icon_color=ff3e3e&border_color=30363d&ring_color=ff3e3e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apex4Coder&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff3e3e&text_color=c9d1d9&border_color=30363d"/>
+
+<img src="https://streak-stats.demolab.com/?user=Apex4Coder&background=0d1117&ring=ff3e3e&fire=ff3e3e&currStreakLabel=ff3e3e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681&border=30363d&locale=ru"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Apex4Coder&theme=darkhub&no-frame=true&column=7&margin-w=8"/>
+
 </div>
 
----
-
-## 📫 Контакты
-
-- **GitHub**: [github.com/GPCProject](https://github.com/GPCProject)
-- **Telegram**: [@GPCProject](https://t.me/GPCProject)
-
----
-
 <div align="center">
-  <sub>✨ Постоянно учусь новому. Открыт к предложениям и сотрудничеству.</sub>
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff3e3e,55:6e0000,100:0d1117&section=footer" width="100%"/>
 
-<!-- ======== ENGLISH VERSION ======== -->
+<sub>⚫🔴 Постоянно учусь новому. Открыт к предложениям и сотрудничеству → <a href="https://t.me/GPCProject">Telegram</a></sub>
 
-<h2 id="english">🌐 English Version</h2>
-
-<h3>👋 Welcome! I'm Valentin</h3>
-
----
-
-## 🧠 About Me
-
-I build **application logic**, **web pages**, **server-side solutions** and **Telegram bots**. I write clean, modular, maintainable code. I automate routine tasks — from Excel to complex business processes.
-
-- 🔧 Design **backend architecture** and APIs
-- 🤖 Create **Telegram bots** of any complexity (Aiogram)
-- 🌐 Build **web applications** with FastAPI / Django
-- 🗄 Work with **databases** (PostgreSQL, SQLite)
-- 🐳 Containerize applications (Docker)
-- 📊 Process data: **Python + openpyxl** for Excel
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-| Language | Level |
-|----------|-------|
-| Python | ⭐⭐⭐⭐⭐ |
-| SQL | ⭐⭐⭐⭐ |
-| HTML / CSS | ⭐⭐⭐⭐ |
-| JavaScript (basic) | ⭐⭐⭐ |
-
-### Backend
-| Technology | Purpose |
-|---|---|
-| **FastAPI** | Modern REST APIs (async, Swagger docs) |
-| **Django** | Full-featured web apps with admin panel |
-| **Uvicorn / Gunicorn** | ASGI/WSGI production servers |
-
-### Databases
-| Technology | Purpose |
-|---|---|
-| **PostgreSQL** | Primary database for projects |
-| **SQLite** | Lightweight DB for prototypes |
-| **SQLAlchemy** | ORM — database interaction via Python |
-| **Alembic** | Database schema migrations |
-
-### Bots
-| Technology | Purpose |
-|---|---|
-| **Aiogram 3.x** | Async Telegram bots (keyboards, FSM, middleware) |
-
-### Infrastructure
-| Technology | Purpose |
-|---|---|
-| **Docker** | Application containerization |
-| **Git / GitHub** | Version control, CI/CD |
-| **Linux (Ubuntu)** | Server environment |
-| **Nginx** | Reverse proxy server |
-
-### Parsing & Data
-| Technology | Purpose |
-|---|---|
-| **openpyxl** | Read/write Excel files |
-| **BeautifulSoup / lxml** | HTML parsing |
-| **httpx / aiohttp** | Async HTTP requests |
-
----
-
-## 📂 Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[switch9proxy](https://github.com/GPCProject/switch9proxy)** | Profile switcher for 9router. Isolated workspaces with different providers and OAuth | Node.js, SQLite, vanilla JS |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GPCProject&show_icons=true&theme=dark" alt="GitHub Stats">
-</div>
-
----
-
-## 📫 Contact
-
-- **GitHub**: [github.com/GPCProject](https://github.com/GPCProject)
-- **Telegram**: [@GPCProject](https://t.me/GPCProject)
-
----
-
-<div align="center">
-  <sub>✨ Always learning. Open to offers and collaboration.</sub>
 </div>
