@@ -9,6 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=Apex4Coder&style=for-the-badge&color=ff3e3e&label=ПРОСМОТРЫ"/>
 <a href="https://t.me/GPCProject"><img src="https://img.shields.io/badge/Telegram-@GPCProject-1a1a1a?style=for-the-badge&logo=telegram&logoColor=ff3e3e"/></a>
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-ff3e3e?style=for-the-badge&labelColor=1a1a1a"/>
+<a href="#-buy-me-a-coffee"><img src="https://img.shields.io/badge/☕-BUY%20ME%20A%20COFFEE-ff3e3e?style=for-the-badge&labelColor=1a1a1a"/></a>
 
 <br/><br/>
 
@@ -40,6 +41,9 @@
 
 <div align="center">
 
+<a href="https://github.com/Apex4Coder/ClodKey">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Apex4Coder&repo=ClodKey&bg_color=0d1117&title_color=ff3e3e&text_color=8b949e&icon_color=ff3e3e&border_color=30363d" alt="ClodKey"/>
+</a>
 <a href="https://github.com/Apex4Coder/zoo-hyperagent-bridge">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apex4Coder&repo=zoo-hyperagent-bridge&bg_color=0d1117&title_color=ff3e3e&text_color=8b949e&icon_color=ff3e3e&border_color=30363d" alt="zoo-hyperagent-bridge"/>
 </a>
@@ -51,6 +55,7 @@
 
 | Проект | Что делает | Стек |
 |---|---|---|
+| **[ClodKey](https://github.com/Apex4Coder/ClodKey)** | Менеджер ключей в трее + ретранслятор: станции формата Claude CLI (например agentrouter.org) работают в Zoo Code / Roo Code; проверка моделей показывает, когда включены Opus | PowerShell, WinForms, Node.js |
 | **[zoo-hyperagent-bridge](https://github.com/Apex4Coder/zoo-hyperagent-bridge)** | Hyperagent-агент как модельный провайдер для Zoo Code: native tool calls, MCP-транспорт, OAuth, живой SSE, логи в стиле 9router | Node.js, MCP, OpenAI API |
 | **[switch9proxy](https://github.com/Apex4Coder/switch9proxy)** | Переключатель профилей для 9router: изолированные workspace с разными провайдерами и OAuth | Node.js, SQLite, JS |
 
@@ -69,6 +74,20 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apex4Coder&theme=github_dark" width="32%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Apex4Coder&theme=darkhub&no-frame=true&column=7&margin-w=8"/>
+
+</div>
+
+## ☕ Buy me a coffee
+
+<div align="center">
+
+<a href="https://etherscan.io/address/0x50153B5CC3eae905291d62602226C80896Aa64f2"><img src="assets/coffee.svg" width="100%" alt="Buy me a coffee — Ethereum (ERC20)"/></a>
+
+```
+0x50153B5CC3eae905291d62602226C80896Aa64f2
+```
+
+<sub>Только сеть Ethereum (ERC20) · Ethereum (ERC20) only · Solo red Ethereum (ERC20)</sub>
 
 </div>
 
@@ -108,6 +127,6 @@ Ahora exploro lo más vivo del desarrollo — los **agentes de IA**: construyo p
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff3e3e,55:6e0000,100:0d1117&section=footer" width="100%"/>
 
-<sub>⚫🔴 Работаю · учусь · пробую — каждый день. Открыт к предложениям → <a href="https://t.me/GPCProject">Telegram</a></sub>
+<sub>⚫🔴 Работаю · учусь · пробую — каждый день. Открыт к предложениям → <a href="https://t.me/GPCProject">Telegram</a> · ☕ <a href="#-buy-me-a-coffee">Coffee</a></sub>
 
 </div>
